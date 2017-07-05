@@ -19,3 +19,23 @@ Python 2.x is required to run this project. The Python executable should be in y
 
 ## How to Run
 
+Download the project folder to you computer Or clone this repository to your desktop.
+
+Open the text-based interface for your operating system (e.g. the terminal window in Linux, the command prompt in Windows).
+
+Navigate to the project directory and type in the following command:
+
+python entertainment_center.py
+
+Your default browser should launch a new tab displaying the movie trailer website.
+
+## Extra Credit Description
+
+The following features were implemented to gain an extra credit from Udacity:
+
+* Added the storyline of the movie to the website.
+* Added the release date to the Movie class, which is also displayed on the website.
+* Changed the background and text colour to create a dark theme for the website.
+* Added subtle drop shadow to the movie poster images.
+
+**This README document is based on a template suggested by PhilipCoach in this Udacity forum post.
