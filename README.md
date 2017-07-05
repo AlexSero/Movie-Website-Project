@@ -38,4 +38,4 @@ The following features were implemented to gain an extra credit from Udacity:
 * Changed the background and text colour to create a dark theme for the website.
 * Added subtle drop shadow to the movie poster images.
 
-**This README document is based on a template suggested by PhilipCoach in this Udacity forum post.
+***This README document is based on a template suggested by PhilipCoach in this Udacity forum post.
